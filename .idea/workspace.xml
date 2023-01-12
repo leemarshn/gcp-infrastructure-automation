@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a49e4c-f843-4429-83fc-76090bbac084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GCPCodes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terraform/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terraform/mynetwork.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terraform/provider.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terraform/variables.tf" afterDir="false" />
+    <list default="true" id="42a49e4c-f843-4429-83fc-76090bbac084" name="Changes" comment="Terraform create vm, vpc network, firewall">
+      <change afterPath="$PROJECT_DIR$/src/cloud_storage/storage.rm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/monitoring/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1672942264668</updated>
     </task>
+    <task id="LOCAL-00001" summary="Terraform create vm, vpc network, firewall">
+      <created>1672943893424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672943893424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terraform create vm, vpc network, firewall" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terraform create vm, vpc network, firewall" />
   </component>
 </project>
